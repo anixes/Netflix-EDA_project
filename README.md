@@ -26,7 +26,3 @@ The analysis is done using Python, Pandas and Seaborn.
 - The United States leads in content production, followed by India.
 - Drama and International Movies are the most common genres.
 - Significant content growth since 2015.
-
-## 🚀 How to Run
-1. Clone this repo:
-   ```bash
