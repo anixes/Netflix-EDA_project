@@ -19,7 +19,7 @@ The analysis is done using Python, Pandas and Seaborn.
 - Python 3
 - Pandas
 - Seaborn
-- Jupyter Notebook / Kaggle
+- Kaggle
 
 ## 📈 Key Insights
 - Movies dominate the Netflix library (~70% of content).
